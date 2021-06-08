@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="780a2ebf-ab7c-46ae-b4a5-cb8e169d1c93" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jmiivoAudFNyXPMV0sbzT3FYEG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus\WebstormProjects\untitled4" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Home.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/untitled4/Home.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.Home.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="780a2ebf-ab7c-46ae-b4a5-cb8e169d1c93" name="Default Changelist" comment="" />
+      <created>1604415798953</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604415798953</updated>
+      <workItem from="1604415800263" duration="10293000" />
+      <workItem from="1604467738813" duration="30215000" />
+      <workItem from="1604555386760" duration="20234000" />
+      <workItem from="1604595399603" duration="4357000" />
+      <workItem from="1604642864066" duration="18189000" />
+      <workItem from="1604687832879" duration="11000" />
+      <workItem from="1604691672711" duration="1370000" />
+      <workItem from="1604730534791" duration="4231000" />
+      <workItem from="1604806337047" duration="17347000" />
+      <workItem from="1604836269953" duration="6391000" />
+      <workItem from="1604897716076" duration="11105000" />
+      <workItem from="1604985384167" duration="1102000" />
+      <workItem from="1605196793770" duration="920000" />
+      <workItem from="1605269290623" duration="414000" />
+      <workItem from="1605367650749" duration="1232000" />
+      <workItem from="1605633121346" duration="1640000" />
+      <workItem from="1605671635220" duration="1974000" />
+      <workItem from="1605935208843" duration="6463000" />
+      <workItem from="1605971878612" duration="10193000" />
+      <workItem from="1606013592370" duration="10080000" />
+      <workItem from="1606132775447" duration="1079000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604491836401">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1604491836401" />
+    <state x="0" y="80" key="SettingsEditor" timestamp="1604426194827">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="80" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1604426194827" />
+    <state x="783" y="109" width="738" height="606" key="find.popup" timestamp="1605935744586">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="783" y="109" width="738" height="606" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1605935744586" />
+    <state x="809" y="72" width="672" height="676" key="search.everywhere.popup" timestamp="1604899147242">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="809" y="72" width="672" height="676" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1604899147242" />
+  </component>
+</project>
